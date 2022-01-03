@@ -1,0 +1,2 @@
+# KataNameToClassName
+KataNameToClassName
